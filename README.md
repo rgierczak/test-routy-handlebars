@@ -4,9 +4,9 @@
 
 ## Usage
 
-1) Type in URL `/fruits/<your-favouirte-fruit-name>`
-2) The fruit will be displayed in handlebars template.
-3) Default fruit name is `banana`.
+1. Type in URL `/fruits/<your-favouirte-fruit-name>`
+2. The fruit will be displayed in handlebars template.
+3. Default fruit name is `banana`.
 
 ## License
 
